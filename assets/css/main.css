@@ -3155,8 +3155,8 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background:#84B947;
-		color: #ffffff;
+		background:#5A5762;
+		color: #84B849;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3308,7 +3308,7 @@
 
 					#header nav > ul > li > a {
 						border: 0;
-						color: #fff;
+						color: #84B849;
 						display: block;
 						font-size: 0.8em;
 						letter-spacing: 0.225em;
@@ -3357,7 +3357,7 @@
 					}
 
 		#header.alt {
-			background: #84B947;
+			background: #5A5762;
 		}
 
 			#header.alt h1 {
